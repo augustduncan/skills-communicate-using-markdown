@@ -9,3 +9,8 @@ but now theres a picture of a goose
 ``` python
 print("hello world. enjoy the goose.")
 ```
+TASK LIST
+- [ ] wild goose chase
+- [ ] catch goose
+- [x] picnic
+
